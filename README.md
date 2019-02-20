@@ -17,8 +17,8 @@ $pip3 install adafruit-ampy
 ```
 
 ## Development
-### Upload Python code with ampy
-https://github.com/pycampers/ampy
+### Manage files on the board usin ampy
+Use scripts eg. list_files.sh
 
 ### Access REPL via serial
 Use PuTTy, Arduino IDE, PlatformIO serial windows

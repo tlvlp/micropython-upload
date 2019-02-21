@@ -6,6 +6,7 @@ CHIP=esp32
 PORT=COM4
 FIRMWARE=~/MicroPython/firmware_esp32/esp32-20190214-v1.10-98-g4daee3170.bin
 
+
 ##################################
 
 echo
@@ -13,7 +14,7 @@ echo
 echo Erasing the flash of ESP32 on $PORT
 echo
 
-esptool.py --port $PORT erase_flash
+esptool.py --chip $CHIP --port $PORT erase_flash
 
 echo
 echo

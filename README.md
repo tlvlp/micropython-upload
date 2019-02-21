@@ -8,7 +8,7 @@ http://docs.micropython.org/en/latest/esp32/tutorial/intro.html#esp32-intro
 $pip3 install esptool
 ```
 * Download the latest firmware from https://micropython.org/download#esp32
-* Modify and run esp32_update_firmware.sh for easy update
+* Modify and run UPDATE_FIRMWARE.sh for easy update
 
 ### Install AMPY:
 https://github.com/pycampers/ampy

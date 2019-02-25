@@ -1,4 +1,6 @@
 *.bin
 /micropython/
+/micropython-async/
+/micropython-lib/
 /projects/
 /webrepl/

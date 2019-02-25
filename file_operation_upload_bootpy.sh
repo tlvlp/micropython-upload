@@ -5,7 +5,7 @@
 PORT=COM4
 BAUD=115200
 DELAY=0.5
-FILE=boot.py
+FILE=~/git/com.tlvlp.iot/tlvlp-iot-mcu-bazsalikon-soil/boot.py
 
 ##################################
 

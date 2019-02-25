@@ -5,7 +5,7 @@
 PORT=COM4
 BAUD=115200
 DELAY=0.5
-FILE=webrepl_cfg.py
+FILE=/proj/unit_service.py
 
 ##################################
 

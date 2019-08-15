@@ -2,7 +2,7 @@
 
 ##################################
 
-PORT=COM4
+PORT=/dev/ttyUSB0
 BAUD=115200
 DELAY=0.5
 

@@ -3,8 +3,8 @@
 ##################################
 
 CHIP=esp32
-PORT=COM4
-FIRMWARE=~/MicroPython/firmware_esp32/esp32-20190214-v1.10-98-g4daee3170.bin
+PORT=/dev/ttyUSB0
+FIRMWARE=/home/tlvlp/projects/tlvlp-iot/mcu/micropython-upload/esp32spiram-20190529-v1.11.bin
 
 
 ##################################

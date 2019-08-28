@@ -9,10 +9,10 @@ BAUD=115200
 
 echo
 echo
-echo Listing files on $PORT
+echo Deleting files:
 echo
 
-ampy --port $PORT --baud $BAUD get /unit/unit_service.py
+ampy --port $PORT --baud $BAUD rm growlight_status
 
 echo
 echo Press any key to close the terminal

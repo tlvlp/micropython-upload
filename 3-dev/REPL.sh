@@ -7,4 +7,4 @@ BAUD=115200
 
 ##################################
 
-picocom ${PORT} -b ${BAUD}
+sudo picocom ${PORT} -b ${BAUD}
